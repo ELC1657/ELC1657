@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emiliano</h1>
 <h3 align="center">A Cybersecurity specalist with some software development skills</h3>
 
-- 🔭 I’m currently working on [personal portfolio](https://emilianozorn.space/)
+- 🔭 I’m currently working on [personal portfolio](https://emilianocompassi.dev)
 
 - 👨‍💻 All of my projects are available at [https://emilianozorn.space/](https://emilianozorn.space/)
 
