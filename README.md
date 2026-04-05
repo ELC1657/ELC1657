@@ -1,84 +1,53 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║          EMILIANO COMPASSI  //  THREAT INTEL              ║
-╚═══════════════════════════════════════════════════════════╝
-```
+# Emiliano Compassi
 
-**I track adversaries. I write about them. I build tools to catch them.**
+**Cybersecurity professional. Threat intelligence analyst. Tool builder.**
 
-[![Cyber++](https://img.shields.io/badge/Cyber%2B%2B-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://cyberpp.substack.com)
-[![Portfolio](https://img.shields.io/badge/emilianocompassi.dev-111111?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://emilianocompassi.dev)
-[![Mail](https://img.shields.io/badge/emzo1657@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emzo1657@gmail.com)
+I track adversaries, write about them, and build the tooling to catch them.
+
+[![Cyber++](https://img.shields.io/badge/Cyber++-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://cyberpp.substack.com)
+[![Portfolio](https://img.shields.io/badge/emilianocompassi.dev-000000?style=flat-square&logo=firefox&logoColor=white)](https://emilianocompassi.dev)
+[![Email](https://img.shields.io/badge/emzo1657@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emzo1657@gmail.com)
 
 </div>
 
 ---
 
-```
-> whoami
-```
+### What I do
 
-Cybersecurity professional operating across threat intelligence, offensive security, and technical writing. I cover the full cycle — IOC hunting, TTP mapping, finished analytical reporting — and I publish it at **[Cyber++](https://cyberpp.substack.com)**, a technical threat intel publication on Substack.
+I work across the full threat intelligence cycle, from raw IOC hunting to finished analytical writing. My focus is on APT campaigns, ransomware operations, and the intersection of hacktivism and state-sponsored activity.
 
-Past coverage includes **Lazarus Group**, **Medusa ransomware**, **ScarCruft's Ruby Jumper campaign**, and **Handala's Stryker wiper**. The goal is always the same: intelligence that's precise enough to be actionable.
+On the tooling side, I build utilities that make that work faster: packet analysis, recon automation, and infrastructure I run on my own attack lab.
 
-On the engineering side, I build tools that support that work. My lab is a headless Kali box on a Raspberry Pi 4 — every project here has been tested on real infrastructure, not a VM on someone else's cloud.
+I publish technical threat intel at **[Cyber++](https://cyberpp.substack.com)** in-depth breakdowns of active campaigns, TTPs, and the groups behind them. Past coverage includes Lazarus Group, Medusa ransomware, ScarCruft's Ruby Jumper campaign, and Handala's Stryker wiper.
 
 ---
 
-```
-> ls ./projects
-```
+### Projects
 
-| | Project | Stack | What it does |
-|---|---------|-------|-------------|
-| `>_` | [terminalpacketsniffer](https://github.com/ELC1657/terminalpacketsniffer) | Python | CLI packet capture and real-time traffic analysis |
-| `>_` | [SSH-portfolio](https://github.com/ELC1657/SSH-portfolio) | Go | SSH-accessible terminal portfolio — navigate via your terminal |
+| Repo | What it does |
+|------|-------------|
+| [terminalpacketsniffer](https://github.com/ELC1657/terminalpacketsniffer) | CLI packet capture and analysis tool written in Python |
+| [SSH-portfolio](https://github.com/ELC1657/SSH-portfolio) | An SSH-accessible terminal portfolio — connect and navigate via your terminal |
 
 ---
 
-```
-> cat ./stack.conf
-```
-
-```ini
-[offensive]
-tools     = Kali Linux · Nmap · Wireshark · Metasploit · HackTheBox
-focus     = post-exploitation · network recon · privilege escalation
-
-[intelligence]
-methods   = OSINT · IOC analysis · MITRE ATT&CK · malware triage
-output    = finished reporting · campaign tracking · TTP documentation
-
-[languages]
-primary   = Python · Go · Bash
-secondary = JavaScript · TypeScript
-
-[systems]
-os        = Arch Linux (Hyprland) · Kali Linux (headless)
-hardware  = Raspberry Pi 4 · self-hosted attack lab
-
-[certifications]
-active    = CompTIA A+ · CS50 Cybersecurity
-progress  = CompTIA Security+
-```
-
----
+### Stack
 
 ```
-> cat ./cyber++.md
+Offensive     Kali Linux · HackTheBox · Nmap · Wireshark · Metasploit
+Intelligence  OSINT frameworks · IOC analysis · MITRE ATT&CK mapping
+Languages     Python · Go · Bash
+Systems       Linux (Arch/Hyprland) · SSH hardening
+Certs         CompTIA A+ · CS50 Cybersecurity · Security+ (in progress)
 ```
-
-**[Cyber++](https://cyberpp.substack.com)** is where I publish long-form threat intelligence — in-depth breakdowns of active campaigns, adversary infrastructure, and the groups behind them. No filler. No hype. Just analysis.
 
 ---
 
 <div align="center">
 
 *Threat intelligence is only useful if it's communicated clearly.*
-
-`[ emilianocompassi.dev ]` · `[ Cyber++ ]` · `[ Security+ in progress ]`
+*That's the whole point of [Cyber++](https://cyberpp.substack.com).*
 
 </div>
