@@ -1,18 +1,53 @@
-<h1 align="center">Hi, I'm Emiliano</h1>
-<h3 align="center">A Cybersecurity specalist with some software development skills</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [personal portfolio](https://emilianocompassi.dev)
+# Emiliano Compassi
 
-- 👨‍💻 All of my projects are available at [https://emilianozorn.space/](https://emilianozorn.space/)
+**Cybersecurity professional. Threat intelligence analyst. Tool builder.**
 
-- 📫 How to reach me **emzo1657@gmail.com**
+I track adversaries, write about them, and build the tooling to catch them.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![Cyber++](https://img.shields.io/badge/Cyber++-Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://cyberpp.substack.com)
+[![Portfolio](https://img.shields.io/badge/emilianocompassi.dev-000000?style=flat-square&logo=firefox&logoColor=white)](https://emilianocompassi.dev)
+[![Email](https://img.shields.io/badge/emzo1657@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emzo1657@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
+---
 
--->
+### What I do
+
+I work across the full threat intelligence cycle — from raw IOC hunting to finished analytical writing. My focus is on APT campaigns, ransomware operations, and the intersection of hacktivism and state-sponsored activity.
+
+On the tooling side, I build utilities that make that work faster: packet analysis, recon automation, and infrastructure I run on my own attack lab (a headless Kali box on a Raspberry Pi 4).
+
+I publish technical threat intel at **[Cyber++](https://cyberpp.substack.com)** — in-depth breakdowns of active campaigns, TTPs, and the groups behind them. Past coverage includes Lazarus Group, Medusa ransomware, ScarCruft's Ruby Jumper campaign, and Handala's Stryker wiper.
+
+---
+
+### Projects
+
+| Repo | What it does |
+|------|-------------|
+| [terminalpacketsniffer](https://github.com/ELC1657/terminalpacketsniffer) | CLI packet capture and analysis tool written in Python |
+| [SSH-portfolio](https://github.com/ELC1657/SSH-portfolio) | An SSH-accessible terminal portfolio — connect and navigate via your terminal |
+
+---
+
+### Stack
+
+```
+Offensive     Kali Linux · HackTheBox · Nmap · Wireshark · Metasploit
+Intelligence  OSINT frameworks · IOC analysis · MITRE ATT&CK mapping
+Languages     Python · Go · Bash
+Systems       Linux (Arch/Hyprland) · Raspberry Pi · SSH hardening
+Certs         CompTIA A+ · CS50 Cybersecurity · Security+ (in progress)
+```
+
+---
+
+<div align="center">
+
+*Threat intelligence is only useful if it's communicated clearly.*
+*That's the whole point of [Cyber++](https://cyberpp.substack.com).*
+
+</div>
